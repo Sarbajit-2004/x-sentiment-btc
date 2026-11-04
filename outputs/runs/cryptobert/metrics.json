@@ -1,0 +1,17 @@
+{
+  "eval_start": "2026-07-10",
+  "eval_end": "2026-11-03",
+  "primary_model": "ensemble",
+  "strategy_n0": {
+    "sharpe": -1.403833342524603,
+    "sortino": -2.174825684658198,
+    "max_drawdown": -0.17281120479472367,
+    "total_return": -0.10752827410327315
+  },
+  "buy_and_hold": {
+    "sharpe": 1.8771667466103794,
+    "sortino": 3.466099908492837,
+    "max_drawdown": -0.11461066056434066,
+    "total_return": 0.22394672187439357
+  }
+}

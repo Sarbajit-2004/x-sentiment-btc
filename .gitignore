@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/demo/
+outputs/demo/
+outputs/*.html.tmp
+*.log
+SUBMISSION.md
+PROGRESS.md
+HANDOFF.md
+data/hist_2021_23/
+data/cryptobert/
